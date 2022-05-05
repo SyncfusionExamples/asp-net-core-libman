@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@syncfusion/ej2@20.1.52",
+      "destination": "wwwroot/themes/syncfusion/ej2/",
+      "files": [
+        "bootstrap5.css"
+      ]
+    }
+  ]
+}
